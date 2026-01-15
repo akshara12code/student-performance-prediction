@@ -1,0 +1,4 @@
+[2026-01-15 19:27:38,276] root - INFO - Entered Data Ingestion
+[2026-01-15 19:27:38,317] root - INFO - Exported read dataset
+[2026-01-15 19:27:38,334] root - INFO - Train test initiated
+[2026-01-15 19:27:38,356] root - INFO - Ingestion of the data is completed
