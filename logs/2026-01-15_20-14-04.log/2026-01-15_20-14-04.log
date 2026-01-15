@@ -1,0 +1,10 @@
+[2026-01-15 20:14:07,269] root - INFO - Entered Data Ingestion
+[2026-01-15 20:14:07,276] root - INFO - Exported read dataset
+[2026-01-15 20:14:07,286] root - INFO - Train test initiated
+[2026-01-15 20:14:07,299] root - INFO - Ingestion of the data is completed
+[2026-01-15 20:14:07,362] root - INFO - Read train and test data completed
+[2026-01-15 20:14:07,362] root - INFO - Obtaining preprocessing object
+[2026-01-15 20:14:07,363] root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2026-01-15 20:14:07,363] root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[2026-01-15 20:14:07,380] root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2026-01-15 20:14:07,498] root - INFO - Saved preprocessing object.
